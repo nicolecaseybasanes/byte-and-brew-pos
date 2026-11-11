@@ -25,7 +25,7 @@ A comprehensive, desktop-based Point of Sale (POS) and Sales Monitoring System b
 
 ## Screenshots
 
-*(To add screenshots: Open your app, take screenshots using Snipping Tool, upload them to your GitHub issue/readme, and paste the image links below).*
+
 
 ### Role Selection & Login
 ![Role Selection](INSERT_IMAGE_LINK_HERE)
@@ -41,7 +41,7 @@ A comprehensive, desktop-based Point of Sale (POS) and Sales Monitoring System b
 ### Employee Management
 ![Employee Management](INSERT_IMAGE_LINK_HERE)
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 1. **Clone the repository:**
    ```bash
