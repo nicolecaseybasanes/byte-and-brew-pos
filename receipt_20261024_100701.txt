@@ -1,0 +1,17 @@
+      BYTE AND BREW
+     Restaurant POS
+--------------------------------
+Receipt No: REC-20261024-0001
+Date: 10/24/2026
+Time: 10:06 AM
+--------------------------------
+Chicken Inasal  1 x 120.00 = 120.00
+Pork BBQ        1 x 120.00 = 120.00
+--------------------------------
+Subtotal:              PHP 240.00
+TOTAL:                 PHP 240.00
+Payment:               Cash
+Amount Received:       PHP 300.00
+Change:                PHP 60.00
+--------------------------------
+       Thank you!
